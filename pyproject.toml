@@ -1,0 +1,8 @@
+[project]
+name = "url-query-merge"
+version = "0.1.0"
+description = "Merge query parameters into a URL"
+requires-python = ">=3.9"
+license = "MIT"
+
+[tool.unittest]
